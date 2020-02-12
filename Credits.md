@@ -1,5 +1,18 @@
 # Credits
 
+3D Modeling:
+Kitsuneko
+https://sketchfab.com/flowerLT
+
+Programming:
+Okaminu
+https://github.com/okaminu
+
+Programming:
+AndriusDgt
+https://github.com/andriusdgt
+
+## Assets used from
 Village by Olee: https://sketchfab.com/3d-models/issum-the-town-on-capital-isle-e433923a64d549fabb2d30635d643ab6
 Author: https://sketchfab.com/Olee
 
@@ -28,15 +41,3 @@ Pipes by paethon:
 https://sketchfab.com/paethon
 
 Music and audio provided by freesfx.co.uk and freemusicarchive.org
-
-3D Modeling:
-Kitsuneko
-https://sketchfab.com/flowerLT
-
-Programming:
-Okaminu
-https://github.com/okaminu
-
-Programming:
-AndriusDgt
-https://github.com/andriusdgt
