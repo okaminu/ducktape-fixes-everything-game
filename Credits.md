@@ -29,4 +29,14 @@ https://sketchfab.com/paethon
 
 Music and audio provided by freesfx.co.uk and freemusicarchive.org
 
+3D Modeling:
+Kitsuneko
+https://sketchfab.com/flowerLT
 
+Programming:
+Okaminu
+https://github.com/okaminu
+
+Programming:
+AndriusDgt
+https://github.com/andriusdgt
