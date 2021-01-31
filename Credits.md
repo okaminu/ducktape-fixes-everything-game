@@ -2,7 +2,7 @@
 
 3D Modeling:
 Kitsuneko
-https://sketchfab.com/flowerLT
+https://sketchfab.com/kitsuneko_3d
 
 Programming:
 Okaminu
