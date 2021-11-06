@@ -11,9 +11,7 @@ Trailer: https://youtu.be/gHgoeOHFUWc
 
 Credits:
 
-Bernadeta Daukšaitė
-
-Aurimas Degutis
-
-Andrius Degutis
+* Bernadeta Daukšaitė
+* Aurimas Degutis
+* Andrius Degutis
 
