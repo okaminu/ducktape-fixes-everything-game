@@ -10,7 +10,10 @@ Play game from browser: http://ducktape.okaminu.net
 Trailer: https://youtu.be/gHgoeOHFUWc
 
 Credits:
+
 Bernadeta Daukšaitė
+
 Aurimas Degutis
+
 Andrius Degutis
 
