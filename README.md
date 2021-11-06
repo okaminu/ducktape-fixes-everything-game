@@ -9,9 +9,15 @@ Play game from browser: http://ducktape.okaminu.net
 
 Trailer: https://youtu.be/gHgoeOHFUWc
 
-Credits:
+### Credits:
 
-* Bernadeta Daukšaitė
-* Aurimas Degutis
-* Andrius Degutis
+#### Level Design, 3D Design, Animations:
+Bernadeta Daukšaitė
+
+#### Game Programming, Post-Processing Effects:
+Aurimas Degutis
+
+#### Level setup, Sound Design, Animations:
+Andrius Degutis
+
 
