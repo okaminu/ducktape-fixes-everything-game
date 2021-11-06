@@ -8,3 +8,16 @@ GameJam game profile: https://globalgamejam.org/2020/games/ducktape-fixes-everyt
 Play game from browser: http://ducktape.okaminu.net
 
 Trailer: https://youtu.be/gHgoeOHFUWc
+
+### Credits:
+
+#### Level Design, 3D Design, Animations:
+Bernadeta Daukšaitė
+
+#### Game Programming, Post-Processing Effects:
+Aurimas Degutis
+
+#### Level setup, Sound Design, Animations:
+Andrius Degutis
+
+
